@@ -1,4 +1,4 @@
-# Feature Extraction with Cifar10
+# Feature Extraction with Cifar10 Using VGG & Inception (GoogLeNet) & resnet
 
 Running this program will train feature extraction with the ( **VGG** Or **Inception** Or **Resnet** ) network/Cifar10 dataset bottleneck features. 
 The 100 in **vgg_cifar10_100** Or **inception_cifar10_100** Or **resnet_cifar10_100**  indicates this file has 100 examples per class.
