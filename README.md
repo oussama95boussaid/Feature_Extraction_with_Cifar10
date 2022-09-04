@@ -10,5 +10,14 @@ Here's an exemple of how you would run the vgg file from the command line:
 After 50 epochs these are the results for each model:
 
 VGG 
+
 Epoch 50/50
+
 1000/1000    [==============================] - 0s - loss: 0.2418 - acc: 0.9540 - val_loss: 0.8759 - val_acc: 0.7235
+
+Inception
+
+Epoch 50/50
+
+1000/1000 [==============================] - 0s - loss: 0.0887 - acc: 1.0000 - val_loss: 1.0428 - val_acc: 0.6556
+
